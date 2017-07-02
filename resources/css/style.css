@@ -1,7 +1,8 @@
 body {font-family: helvetica , sans-serif;}
 .main {background-image: url("../images/flatiron.jpg");
-background-size: contain;
-background-repeat: no-repeat;
+background-size: cover;
+background-position: right;
+font-weight: bold;
 text-align: center;
 color: white;
 }
